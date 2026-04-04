@@ -1,21 +1,18 @@
 settings:
   links_font_weight: normal
 
-image_url: /assets/images/profile/eduardo-goody-MQ-Rkg64jf4-unsplash.jpg
-alt_text: "Your profile photo"
-name: Your Name
-description: Replace this with a short bio — one or two sentences describing who you are and what you do. This appears under your photo in the sidebar.
+image_url: me.jpg
+alt_text: Elizabeth Salway, Photo
+name: Elizabeth Salway
+description: I make art!
 
 links:
-  - title: Personal Website
+  - title: Shop
     url: https://example.com
     icon: fas fa-globe
   - title: GitHub
     url: https://github.com
     icon: fab fa-github
-  - title: Twitter
-    url: https://twitter.com
-    icon: fab fa-twitter
   - title: Email
-    url: mailto:contact@example.com
+    url: mailto: ecasalway@gmail.com
     icon: fas fa-envelope
